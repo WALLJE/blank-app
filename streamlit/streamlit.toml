@@ -1,5 +1,0 @@
-[client]
-showErrorDetails = true
-
-[client]
-entryPoint = "SBERT.py"
